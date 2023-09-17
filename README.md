@@ -1,1 +1,1 @@
-# MealScanner
+# NutritionAI
